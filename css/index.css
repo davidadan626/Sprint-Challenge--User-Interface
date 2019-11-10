@@ -150,7 +150,7 @@ display: flex;
 align-items: center;
 }
  
-.header a {
+.header a   {
 margin:  auto;
 text-decoration: none;
 color: black;
@@ -159,7 +159,7 @@ width:100px;
 height: 4px;
 
 }
-.header nav{
+.header nav {
     margin:  auto;
     
 }
@@ -172,5 +172,64 @@ height: 4px;
      margin: 0 auto;
     
  }
+
+  /* .containerabout-page{
+     margin:   0 auto;
+     width: 1000px;
+ }  */
+ .head{
+    display: flex;
+    justify-content: center;
+
+} 
+
+  .head a {
+  
+    text-decoration: none;
+    color: black;
+    font: bolder;
+    padding:4%;
+  
+} 
+ .head nav{
+    padding: 1%;
+} 
+
+ .images{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 1%;
+} 
+
+ .mid-text{
+    display:flex;
+    justify-content: space-between;
+    padding-top: 1%;
+} 
+
+ .How-we{
+    padding-left: 10%;
+} 
+
+.bottom-images{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 1%;
+} 
+
+ .bottom-text{
+    display: flex;
+} 
+
+  h3 {
+     font-size: 17px;
+     font: bolder;
+ } 
+ .collab{
+     padding-left: 9%;
+ } 
+ .lets{
+     padding-top: 1%;
+ } 
 
  
