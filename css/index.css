@@ -101,7 +101,7 @@ p {
     justify-content: space-evenly;
 }
 
-.middle-content .boxes .box {
+.middle-content .boxes .box  {
     width: 12.5%;
     height: 100px;
     background: black;
@@ -127,7 +127,7 @@ p {
 }
 
 footer {
-    width: 100%;
+    width: 101%;
     background: black;
 }
 
@@ -141,6 +141,95 @@ footer nav {
 }
 
 footer nav a {
-    color: white;
+    color:white;
     text-decoration: none;
 }
+
+.header {
+display: flex;
+align-items: center;
+}
+ 
+.header a   {
+margin:  auto;
+text-decoration: none;
+color: black;
+font: bolder;
+width:100px;
+height: 4px;
+
+}
+.header nav {
+    margin:  auto;
+    
+}
+.page{
+    margin: 0 auto;
+    width: 1000px;
+    
+}
+ .black{
+     margin: 0 auto;
+    
+ }
+
+  /* .containerabout-page{
+     margin:   0 auto;
+     width: 1000px;
+ }  */
+ .head{
+    display: flex;
+    justify-content: center;
+
+} 
+
+  .head a {
+  
+    text-decoration: none;
+    color: black;
+    font: bolder;
+    padding:4%;
+  
+} 
+ .head nav{
+    padding: 1%;
+} 
+
+ .images{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 1%;
+} 
+
+ .mid-text{
+    display:flex;
+    justify-content: space-between;
+    padding-top: 1%;
+} 
+
+ .How-we{
+    padding-left: 10%;
+} 
+
+.bottom-images{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 1%;
+} 
+
+ .bottom-text{
+    display: flex;
+} 
+
+  h3 {
+     font-size: 17px;
+     font: bolder;
+ } 
+ .collab{
+     padding-left: 9%;
+ } 
+ .lets{
+     padding-top: 1%;
+ } 
+
+ 
